@@ -18,9 +18,11 @@ extracting relevant features for analysis.
 
 ### DATA ANALYSIS
 We explored the data along three main dimensions:
-<li> Objective 1
+<li> Objective 1 
 Movies released over time(years)
+
 <li> Objective 2
+ 
 The production budget
 <li> Objective 3
 the average profit/loss for each movie studio
